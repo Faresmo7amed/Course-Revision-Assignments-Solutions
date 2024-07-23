@@ -1,0 +1,29 @@
+# Sessions Content
+
+## Session 1
+
+- `#include` Preprocessor Directive
+- `iostream` Header File and its Object `cout` and Manipulator `endl`
+- `using` directive
+- `std` Namespace
+- `main` Function
+- Escape Sequence Character `\n`
+- White Space
+- `Hello World!` Program
+
+## Session 2
+
+- Variables
+- Data Types and their ranges
+- Name Convention
+- Stream Operators
+- Arithmetic Operators
+- Type Conversion
+- Unary Arithmetic Operators
+- Conditional Statements
+    - `return` Statement with Conditions
+- Comparison or Relational operators
+- `cin` Object
+- Logical or Boolean Operators
+- Assignments Operators
+- Ternary Conditional Operators
